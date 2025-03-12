@@ -1,0 +1,29 @@
+
+body {
+    background-image: url('bubblebgrnd.gif');
+    background-size: auto; 
+    background-position: top left; 
+    background-repeat: repeat; 
+    color: rgb(255, 255, 255);
+    font-family: "Comic Sans MS", "Trebuchet MS", Verdana, sans-serif;
+    margin: 50px;
+    padding: 0;
+}
+
+
+ul {
+    list-style-image: url('/static/bullet4.gif');
+  }
+
+img[src="/static/fish.gif"] {
+    position: fixed; 
+    bottom: 0;        
+    left: 0;          
+    width: 90%;      
+    object-fit: cover; 
+}
+
+li:hover{
+    color: blue;
+}
+

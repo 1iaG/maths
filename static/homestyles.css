@@ -1,0 +1,9 @@
+body {
+    background-image: url('background\ GIF.gif');
+    background-size: cover; /* Adjusts the GIF to cover the whole screen */
+    background-position: center; /* Centers the GIF */
+    background-repeat: no-repeat; /* Prevents repeating */
+    background-attachment: fixed; /* Keeps the background fixed while scrolling */
+    color: aliceblue;
+    font-family: "Comic Sans MS", "Trebuchet MS", Verdana, sans-serif;
+}
