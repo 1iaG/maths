@@ -12,10 +12,10 @@ body {
 
 
 ul {
-    list-style-image: url('/static/bullet4.gif');
+    list-style-image: url('bullet4.gif');
   }
 
-img[src="/static/fish.gif"] {
+img[src="fish.gif"] {
     position: fixed; 
     bottom: 0;        
     left: 0;          
